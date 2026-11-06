@@ -2,7 +2,7 @@
 
 ### I build the governance tools GRC teams actually use.
 
-AI governance, privacy, and GRC engineering. President of the Hartford Chapter of the GRC Engineering Club. 2026 IAPP Young Privacy Professional, Connecticut.
+I'm an AIGP and CGE-P working across AI governance, security, and privacy. I publish practical GRC engineering: a Python automation portfolio, runtime checks on LLM usage, threat modeling, and AWS access reviews, plus advisory work on TRACER, an IEEE privacy white paper. I'm President of the Hartford Chapter of the GRC Engineering Club and the 2026 IAPP Young Privacy Professional for Connecticut.
 
 [**Portfolio →**](https://tiffanywr.com/) · [**Code →**](https://github.com/tiffanymwr15/grc-portfolio) · [**LinkedIn →**](https://www.linkedin.com/in/twalkerroper/)
 
